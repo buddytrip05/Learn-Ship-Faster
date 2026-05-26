@@ -1,4 +1,4 @@
-# Workshop Runbook — Copy-Paste Prompt Playbook
+# Copy-Paste Prompt Playbook
 ## Claude for PMs: From Messy Inputs to Shippable Decisions
 ### Terraloom scenario — facilitator copy
 
